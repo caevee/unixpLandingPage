@@ -1,0 +1,23 @@
+{
+  "name": "unixplandingpage",
+  "version": "1.0.0",
+  "description": "Inofficial Landing Page to show off the Subreddit Unixporn (SFW)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caevee/unixpLandingPage.git"
+  },
+  "author": "Caevee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caevee/unixpLandingPage/issues"
+  },
+  "homepage": "https://github.com/caevee/unixpLandingPage#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
